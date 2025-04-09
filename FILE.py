@@ -1,5 +1,4 @@
 import os
 os.system('git pull')
-
-import FILE
-FILE.__FILEX__()
+import F
+F.__FILEX__()
