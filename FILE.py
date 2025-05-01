@@ -1,4 +1,4 @@
 import os
 os.system('git pull')
-import F
-F.__FILEX__()
+import f
+f.__FILEX__()
